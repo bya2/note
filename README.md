@@ -1,4 +1,5 @@
 # 언어
 
 [JS](./%EC%96%B8%EC%96%B4/JS/)
-  - [도메인 창에 주소를 입력하고 엔터를 하면 일어나는 일](./%EC%96%B8%EC%96%B4/JS/README.md)
+  - [도메인 창에 주소를 입력하고 엔터를 하면 일어나는 일](./%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/Computer%20Science/%EB%8F%84%EB%A9%94%EC%9D%B8%20%EC%B0%BD%EC%97%90%20%EC%A3%BC%EC%86%8C%EB%A5%BC%20%EC%9E%85%EB%A0%A5%ED%95%98%EA%B3%A0%20%EC%97%94%ED%84%B0%EB%A5%BC%20%ED%95%98%EB%A9%B4%20%EC%9D%BC%EC%96%B4%EB%82%98%EB%8A%94%20%EC%9D%BC.md)
+  - [DNS](./%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/Computer%20Science/DNS.md)
